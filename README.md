@@ -56,7 +56,7 @@ Build Shopping_Cart from the source and install dependencies:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/abhishekprojects/Shopping_Cart
+   https://github.com/sairamkarpurapu2803/SHOPPING-CART.git
    ```
 
 2. **Navigate to the project directory:**
